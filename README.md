@@ -50,4 +50,4 @@ Changes Made per Horiseon Instructions:
     Changed title to "Horiseon - Search Engine Optimization"
     Marked up the .CSS file with comments for easier readability
 
-Link: file:///Users/joeyd/Code/SEO-Marketing-Brochure-Refactor/index.html
+Link: https://davidsjg.github.io/SEO-Marketing-Brochure-Refactor/
